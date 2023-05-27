@@ -23,7 +23,7 @@ mvn clean package
 ![9](https://github.com/sampathshivakumar/Java-Web-Apps/assets/119833411/be0ebc4c-42e6-4523-9dec-2e533baa2163)
 
 ### Output.
-Deploy the war file on tomcat server.
+Deploy the war file on tomcat server to see the following output.
 ![output](https://github.com/sampathshivakumar/Java-Web-Apps/assets/119833411/41905126-b51d-4b86-b62b-580c87aeaadf)
 
 
